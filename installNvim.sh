@@ -8,4 +8,6 @@ sudo pacman -S perl-neovim --noconfirm --needed
 sudo pacman -S python-pynvim --noconfirm --needed
 sudo pacman -S ruby --noconfirm --needed
 sudo pacman -S tree-sitter-cli --noconfirm --needed
-
+sudo pacman -S lua-language-server --noconfirm --needed
+sudo pacman -S zathura --noconfirm --needed
+sudo pacman -S texlive --noconfirm --needed
