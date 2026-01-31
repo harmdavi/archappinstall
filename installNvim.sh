@@ -10,4 +10,5 @@ sudo pacman -S ruby --noconfirm --needed
 sudo pacman -S tree-sitter-cli --noconfirm --needed
 sudo pacman -S lua-language-server --noconfirm --needed
 sudo pacman -S zathura --noconfirm --needed
+sudo pacman -S --noconfirm --needed zathura-pdf-mupdf tesseract-data-eng
 sudo pacman -S texlive --noconfirm --needed
