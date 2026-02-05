@@ -9,7 +9,11 @@ sudo pacman -S python-pynvim --noconfirm --needed
 sudo pacman -S ruby --noconfirm --needed
 sudo pacman -S tree-sitter-cli --noconfirm --needed
 sudo pacman -S lua-language-server --noconfirm --needed
+
+# This is for using vimtex. This compiles Latex documents
+#
 sudo pacman -S zathura --noconfirm --needed
 sudo pacman -S --noconfirm --needed zathura-pdf-mupdf tesseract-data-eng
 sudo pacman -S texlive --noconfirm --needed
 sudo pacman -S biber --noconfirm --needed
+
