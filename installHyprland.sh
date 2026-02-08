@@ -3,3 +3,4 @@
 sudo pacman -S hyprlauncher --noconfirm --needed
 sudo pacman -S waybar --noconfirm --needed
 sudo pacman -S hyprshot --noconfirm --needed
+sudo pacman -S hyprpaper --noconfirm --needed
