@@ -16,4 +16,6 @@ sudo pacman -S zathura --noconfirm --needed
 sudo pacman -S --noconfirm --needed zathura-pdf-mupdf tesseract-data-eng
 sudo pacman -S texlive --noconfirm --needed
 sudo pacman -S biber --noconfirm --needed
-
+sudo pacman -S harper --noconfirm --needed
+sudo pacman -S luarocks --noconfirm --needed
+yay -S textidote --noconfirm --needed
