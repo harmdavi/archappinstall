@@ -19,3 +19,4 @@ sudo pacman -S biber --noconfirm --needed
 sudo pacman -S harper --noconfirm --needed
 sudo pacman -S luarocks --noconfirm --needed
 yay -S textidote --noconfirm --needed
+sudo pacman -S texlab --noconfirm --needed
